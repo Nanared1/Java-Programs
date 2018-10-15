@@ -1,2 +1,1 @@
-# Java-Programs
-My java algorithms
+# ICS-Java-Programs
